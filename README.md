@@ -1,3 +1,6 @@
+# Jasmine Santoro - jasminesantoro@csu.fullerton.edu
+# CWID: 886006238
+
 # Project 2: Dynamic vs. Exhaustive - Crane unloading problem
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
